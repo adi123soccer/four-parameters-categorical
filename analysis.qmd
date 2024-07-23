@@ -30,6 +30,6 @@ nes_92 <- nes |>
 ```
 
 ```{r}
-"The NES code we have provides voting data for many decades but we used the data from 1992 to see how gender effects voting results. The question we want to answer is how does Sex affect voting results in 1992"
+"The NES code we have provides voting data for many decades but we used the data from 1992 to see how gender effects voting results. The question we want to answer is how does Sex affect voting results in 1992. Since the voters can change their opinion when they are voting we do not have 100% certainty that these results are correct"
 ```
 
